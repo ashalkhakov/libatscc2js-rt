@@ -1,0 +1,23 @@
+{
+  "name": "libatscc2js-rt",
+  "version": "0.3.2",
+  "description": "Runtime needed to execute libatscc2js-compiled code",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:ashalkhakov/libatscc2js-rt.git"
+  },
+  "keywords": [
+    "ATS2",
+    "atscc2js"
+  ],
+  "author": "Hongwei Xi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ashalkhakov/libatscc2js-rt/issues"
+  },
+  "homepage": "https://github.com/ashalkhakov/libatscc2js-rt#readme"
+}
